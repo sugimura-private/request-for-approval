@@ -7,9 +7,9 @@ YYYYMM_(Detail・稟議内容)
 
 # 申請Format
 ---
-申請日: 20●●年●月●日
-申請者: 申請者名
-承認者: 承認者名
+申請日: 20●●年●月●日<br>
+申請者: 申請者名<br>
+承認者: 承認者名<br>
 ---
 
 ## 実施の経緯及び目的(why・なぜ実施するか） (必須)
@@ -34,11 +34,11 @@ XXX
 
 
 # how to use
-・申請者はtitle/formatに沿って稟議書を作成
-・申請者は稟議作成後、pull request
-・承認者はコメント承認後、mergeする
-・複数の承認者がいる場合、approveもしくはコメント内に承認の旨を記載
+・申請者はtitle/formatに沿って稟議書を作成<br>
+・申請者は稟議作成後、pull request<br>
+・承認者はコメント承認後、mergeする<br>
+・複数の承認者がいる場合、approveもしくはコメント内に承認の旨を記載<br>
 
 # その他
-・連番管理はticket Noに基づく
-・List(稟議台帳）はgoogle spreadsheet上に3回/dayで同期を実施
+・連番管理はticket Noに基づく<br>
+・List(稟議台帳）はgoogle spreadsheet上に3回/dayで同期を実施<br>
